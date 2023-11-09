@@ -1,0 +1,20 @@
+## extensions
+*.*
+Dockerfile
+LICENSE
+!*.css
+!*.graphql
+!*.js
+!*.json
+!*.md
+!*.ts
+!*.tsx
+!*.yml
+
+## same as in .gitignore
+/build
+/locales/**/*.missing.json
+/node_modules
+/vendor
+/ios
+/android
